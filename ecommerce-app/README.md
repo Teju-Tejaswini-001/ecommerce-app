@@ -128,12 +128,6 @@ CREATE TABLE orders (
 
 ---
 
-## Screenshots
-
-Add project screenshots here.
-
----
-
 ## Future Improvements
 
 - Razorpay Payment Integration
